@@ -1,0 +1,19 @@
+﻿{
+    "token": "e21f34f3b4ed235bd5c2378bef7c53021e568775f5d51efb41f9f727888523dd44d73966c93af39b69a17",
+    "TriggerShowLog": "!лог",
+    "TriggerToAddChatLogs": "!добавить чат",
+    "TriggerShowChatsLogs": "!все чаты",
+    "WhiteListChat": [],
+    "TriggerAddStickers": "!+",
+    "TriggerIgnoreMention": "!игнор",
+    "TimeWait": 5,
+    "TimeOutDel": 10,
+    "Answers": [],
+    "IgnoreListMention": [],
+    "TriggerStickers": [],
+    "TriggerDelete": "ой",
+    "TriggerTranslate": "рас",
+    "TriggerAddAudio": "!гс",
+    "TriggerAudio": ".",
+    "audio_cache": {}
+}
